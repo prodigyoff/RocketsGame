@@ -1,1 +1,1 @@
-# RocketGame
+# RocketsGame
